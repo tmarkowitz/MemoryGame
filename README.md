@@ -6,7 +6,7 @@ Submitted by: **Tyler Markowitz**
 
 Time spent: **2** hours spent in total
 
-Link to project: (https://glitch.com/edit/#!/nebulous-spiffy-archer)
+Link to project: (https://nebulous-spiffy-archer.glitch.me/)
 
 ## Required Functionality
 
